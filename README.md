@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **Seongwon Jeong**, a passionate Backend Developer with expertise in Spring Boot and experience in React.js. 
+I'm **Seongwon Jeong**, a passionate Backend Developer with wanna-be expertised in Spring Boot and experience in React.js. 
 
 I want to build scalable backend systems, and I also have experience creating small full-stack applications using React.
 
