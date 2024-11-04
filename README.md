@@ -8,7 +8,7 @@ Welcome to my GitHub profile!
 
 ## 🔧 Technologies & Tools
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -16,6 +16,10 @@ Welcome to my GitHub profile!
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+### Studying now
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+
 
 ## 📈 Stats
 
@@ -26,7 +30,7 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 
 <!-- - 🔭 I’m currently working on **microservices architecture** using Spring Boot. -->
-- 🌱 I’m currently learning **Backend Web Service** using Spring Boot.
+- 🌱 I’m currently learning **Backend Web Service** using NestJS.
 <!-- - 👯 I’m looking to collaborate on **open-source Spring Boot projects**. -->
 - 💬 Ask me about **Spring Boot<!-- , Hibernate, REST APIs, and Docker-->**.
 
