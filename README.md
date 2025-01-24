@@ -17,9 +17,10 @@ Welcome to my GitHub profile!
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+<!-- 
 ### Studying now
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
-
+# ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white)
+-->
 
 ## 📈 Stats
 
@@ -30,8 +31,8 @@ Welcome to my GitHub profile!
 ## 🚀 About Me
 
 <!-- - 🔭 I’m currently working on **microservices architecture** using Spring Boot. -->
-- 🌱 I’m currently learning **Backend Web Service** using NestJS.
-<!-- - 👯 I’m looking to collaborate on **open-source Spring Boot projects**. -->
+<!-- - 🌱 I’m currently learning **Backend Web Service** using NestJS. -->
+- 👯 I’m looking to collaborate on **open-source projects**.
 - 💬 Ask me about **Spring Boot<!-- , Hibernate, REST APIs, and Docker-->**.
 
 <!-- ## 📚 Latest Blog Posts -->
