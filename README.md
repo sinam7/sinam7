@@ -46,9 +46,7 @@ Welcome to my GitHub profile!
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongwon-jeong-b0350830b/)
-  - [muwon777@naver.com](mailto:muwon777@naver.com)
-  - [sinam7@kookmin.ac.kr](mailto:sinam7@kookmin.ac.kr)
-  - [wjdtjddnjs7@gmail.com](mailto:wjdtjddnjs7@gmail.com)
+  - [seongwonjeong2001@gmail.com](mailto:seongwonjeong2001@gmail.com)
 
 <!-- ## 💼 Professional Experience -->
 
