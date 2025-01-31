@@ -1,10 +1,12 @@
 # Hi there! 👋
 
-I'm **Seongwon Jeong**, a passionate Backend Developer with wanna-be expertised in Spring Boot and experience in React.js. 
+**🚀 Seongwon Jeong, Software Engineer | Passionate about making time more valuable through technology**   
+I believe that great software should empower people to focus on what truly matters.   
+My goal is to build efficient and impactful solutions that enhance productivity and improve everyday experiences.         
 
-I want to build scalable backend systems, and I also have experience creating small full-stack applications using React.
-
-Welcome to my GitHub profile!
+**안녕하세요, 시간을 더욱 가치있게 만드는 소프트웨어 엔지니어 정성원입니다.**   
+저는 좋은 소프트웨어는 사람들이 진정으로 중요한 것에 집중할 수 있도록 돕는다고 믿습니다.    
+제 목표는 효율적이고 영향력 있는 솔루션을 만들어 생산성을 높이고, 일상에서의 경험을 개선하는 것입니다.
 
 ## 🔧 Technologies & Tools
 
