@@ -39,12 +39,12 @@ My goal is to build efficient and impactful solutions that enhance productivity 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sinam7)](https://solved.ac/sinam7) 
 
 
-## 🚀 About Me
+<!-- ## 🚀 About Me -->
 
 <!-- - 🔭 I’m currently working on **microservices architecture** using Spring Boot. -->
 <!-- - 🌱 I’m currently learning **Backend Web Service** using NestJS. -->
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **Spring Boot<!-- , Hibernate, REST APIs, and Docker-->**.
+<!-- - 👯 I’m looking to collaborate on **open-source projects**. -->
+<!-- - 💬 Ask me about **Spring Boot<!-- , Hibernate, REST APIs, and Docker**. -->
 
 <!-- ## 📚 Latest Blog Posts -->
 
